@@ -3,19 +3,6 @@ tabs:
 - title: VisArch
   date: Sunday, March 22
   contents:
-  # - title: TBA
-  #   description: TBA
-  #   time: 8:30-12:00
-#   - title: Coffee
-#     description: Blank.
-#     time: 8:30 - 8:50
-
-#   - title: Welcome Remarks
-#     description: Blank.
-#     time: 8:50 - 9:00
-#     leads:
-#     - TBA
-
   - title: AI x Hardware for Wearable Contextual AI Systems
     description: The next generation of human-oriented computing will require always-on, spatially-aware wearable devices to capture egocentric vision and functional primitives (e.g., Where am I? What am I looking at?, etc.). These devices will sense an egocentric view of the world around us to observe all human-relevant signals across space and time to construct and maintain a user's personal context. This personal context, combined with advanced generative AI, will unlock a powerful new generation of contextual AI personal assistants and applications. However, designing and building a wearable system to support contextual AI is a daunting task because of the system's stringent power constraints due to weight and battery restrictions, as well as highly complex hardware architecture. To understand how to guide design for such systems, we construct and present the first complete system architecture view of one such wearable contextual AI system (Aria2). We will then look at the technical depth and breadth collectively required to build and implement such a system and highlight some key opportunities for AI-assisted hardware design. By harnessing advancements in AI for hardware, we expect to develop powerful new capabilities to help bridge the semantic gap and automate technical expertise to accelerate the implementation of future wearable systems.
     time: 9:00 - 9:45
@@ -28,12 +15,25 @@ tabs:
     leads:
     - David Lindlbauer, Assistant Professor at the Human-Computer Interaction Institute at Carnegie Mellon University
 
-#   - title: Break
-#     description: null
-#     time: 10:30 - 11:00
+  # - title: TBA
+  #   description: TBA
+  #   time: 8:30-12:00
+  # - title: Coffee
+  #   description: Blank.
+  #   time: 8:30 - 8:50
 
-#   - title: Invited Talk 3/Poster Session
-#     description: Blank.
-#     time: 11:00 - 12:00
-#     leads:
-#     - TBA
+  # - title: Welcome Remarks
+  #   description: Blank.
+  #   time: 8:50 - 9:00
+  #   leads:
+  #   - TBA
+
+  # - title: Break
+  #   description: null
+  #   time: 10:30 - 11:00
+
+  # - title: Invited Talk 3/Poster Session
+  #   description: Blank.
+  #   time: 11:00 - 12:00
+  #   leads:
+  #   - TBA
